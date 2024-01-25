@@ -1,4 +1,4 @@
-# Profile Steering - Light
+# Auction - Light
 
 Simple implementation of the double sided auction code in Python. Utilizes classes from DEMKit: https://github.com/utwente-energy/demkit/
 
